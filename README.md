@@ -1,2 +1,2 @@
-# Scheduler
-# https://jarfanmade.me/Scheduler/
+#Jar Scheduler
+# https://jarfanmade.me/scheduler/
